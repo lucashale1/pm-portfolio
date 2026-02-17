@@ -10,16 +10,11 @@ export default function Home() {
   return (
     <Container>
       <span className="text-4xl">👋</span>
-      <Heading className="font-black">Hello there! I&apos;m John</Heading>
+      <Heading className="font-black">Hello there! I&apos;m Lucas</Heading>
       <Paragraph className="max-w-xl mt-4">
-        I&apos;m a full-stack developer that loves{" "}
-        <Highlight>building products</Highlight> and web apps that can impact
-        millions of lives
-      </Paragraph>
-      <Paragraph className="max-w-xl mt-4">
-        I&apos;m a senior software engineer with{" "}
-        <Highlight>7 years of experience</Highlight> building scalable web apps
-        that are performance optimized and good looking.
+        I&apos;m a Product Manager that loves{" "}
+        <Highlight>building products</Highlight> that can impact
+        millions of lives.
       </Paragraph>
       <Heading
         as="h2"
